@@ -34,43 +34,46 @@ nav{
 
 section{
 
-    background: #420542;
+    background: #6cff5f;
     width: 495px;
-    padding: 50px 40px 50px 50px;
-    margin: 40px -50px 0px 0px;
+    text-align: center;
+    padding: 30px 45px 133px 45px;
+    margin: 5px 0px 0px 0px;
     float: left;
     
 
 }
 
-article{
+.articleSection{
 
     color: #ebebeb;
     background: #777;
     text-align: center;
-    margin: 0px 0px 0px 0px ;
+    margin: 20px 20px 20px 20px ;
     padding: 0px 0px 0px 0px;
 
 
 }
 
-h1{
+.h1Section{
 
     color: #777 ;
-    background: #ebebeb;
+    background: #ff0000;
     text-align: center;
-    margin: 0px 10px 0px 20px;
+    margin: 0px 0px 0px 20px;
+    padding: 0px 0px 0px 0px;
 
 
 
 }
 
-p{
+.pSection{
 
     color: #777 ;
-    background: #ebebeb;
+    background: #8d81f7;
     text-align: center;
-    margin: 0px 10px 0px 20px;
+    margin: 0px 0px 0px 20px;
+    padding: 0px 0px 0px 0px
 
 }
 
@@ -78,14 +81,14 @@ aside{
 
     background: #ebebeb;
     text-align: center;
-    padding: 30px 200px 200px 200px;
+    padding: 30px 200px 227px 200px;
     margin: 5px 0px 0px 10px;
     float: right;
 }
 
 footer{
 
-    background: #ebebeb;
+    background: #f1ac44;
     margin: 0px 0px 0px 0px ;
     padding: 0px 0px 0px 0px;
 }
