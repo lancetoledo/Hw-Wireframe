@@ -34,7 +34,7 @@ nav{
 
 section{
 
-    background: #6cff5f;
+    background: #ebebeb;
     width: 495px;
     text-align: center;
     padding: 30px 45px 10px 45px;
@@ -58,10 +58,10 @@ section{
 .h1Section{
 
     color: #777 ;
-    background: #ff0000;
+    background: #ebebeb;
     text-align: center;
-    margin: 0px 0px 0px 20px;
-    padding: 0px 0px 0px 0px;
+    margin: 25px -30px 0px -30px;
+    padding: 20px 0px 20px 0px;
 
 
 
@@ -70,10 +70,10 @@ section{
 .pSection{
 
     color: #777 ;
-    background: #8d81f7;
+    background: #ebebeb;
     text-align: center;
-    margin: 0px 0px 0px 20px;
-    padding: 0px 0px 0px 0px
+    margin: 10px -30px 0px -30px;
+    padding: 20px 0px 20px 0px
 
 }
 
