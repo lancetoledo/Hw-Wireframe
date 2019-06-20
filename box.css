@@ -37,7 +37,7 @@ section{
     background: #6cff5f;
     width: 495px;
     text-align: center;
-    padding: 30px 45px 133px 45px;
+    padding: 30px 45px 10px 45px;
     margin: 5px 0px 0px 0px;
     float: left;
     
@@ -49,8 +49,8 @@ section{
     color: #ebebeb;
     background: #777;
     text-align: center;
-    margin: 20px 20px 20px 20px ;
-    padding: 0px 0px 0px 0px;
+    margin: 25px -35px 0px -35px ;
+    padding: 10px 50px 100px 50px;
 
 
 }
@@ -81,7 +81,7 @@ aside{
 
     background: #ebebeb;
     text-align: center;
-    padding: 30px 200px 227px 200px;
+    padding: 30px 200px 200px 200px;
     margin: 5px 0px 0px 10px;
     float: right;
 }
